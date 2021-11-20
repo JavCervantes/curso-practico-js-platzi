@@ -1,0 +1,24 @@
+{
+  "name": "curso-practico-js-platzi",
+  "version": "1.0.0",
+  "description": "practicas js",
+  "main": "src/index.js",
+  "scripts": {
+    "callback": "node src/callbacks/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JavCervantes/curso-practico-js-platzi.git"
+  },
+  "keywords": [
+    "Callbacks",
+    "promesas",
+    "async"
+  ],
+  "author": "Jav Cervantes <jav@javcervantes.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JavCervantes/curso-practico-js-platzi/issues"
+  },
+  "homepage": "https://github.com/JavCervantes/curso-practico-js-platzi#readme"
+}
